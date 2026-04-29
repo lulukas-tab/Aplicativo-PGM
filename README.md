@@ -1,3 +1,5 @@
+> **⚠️ AVISO LEGAL:** Este repositório trata-se **exclusivamente de uma atividade acadêmica**, desenvolvida para a disciplina de Programação para dispositivo móveis do curso de Ciência da Computação. Este projeto não possui fins lucrativos ou comerciais e. Trata-se apenas de um projeto de estudo e simulação técnica.
+##  Sobre o Projeto
 
  ## Aplicativo Acadêmico de Tecnologia e Inovação Digital
 
